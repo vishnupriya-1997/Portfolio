@@ -1,0 +1,64 @@
+.who{
+    margin-top: 2cm;
+    height: 4cm;
+    width: 17cm;
+    margin-left: 1cm;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+ .my {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.my img {
+  width: 10cm; 
+  height: auto;
+  position: absolute;
+  transform: (110%);
+  top: 3cm;
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(255,0,204,0.5);
+}
+
+.my img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 40px rgba(51,51,255,0.8);
+}
+.myy {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.myy img {
+  width: 10cm; 
+  height: auto;
+  position: absolute;
+  transform: (150%);
+  margin-left: 8cm;
+  top: 11cm;
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(255,0,204,0.5);
+}
+
+.myy img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 40px rgba(51,51,255,0.8);
+}
+
+.quick{ 
+    margin-top: 3cm;
+    height: 4cm;
+    width: 17cm;
+    margin-left: 1cm;
+    font-family: sans-serif;
+    text-align: justify;
+}
+h2 {
+  background: linear-gradient(to right,rgb(230, 192, 68), purple);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
