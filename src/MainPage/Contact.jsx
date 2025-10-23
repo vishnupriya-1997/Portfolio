@@ -31,9 +31,7 @@ const Contact = () => {
       <footer className="footer">
         <h3 className='footer-title'>FOLLOW ME ON</h3>
         <div className="social-icons">
-          <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" className="icon" />
-          </a>
+          
           <a href="https://www.linkedin.com/in/vishnu-priya-015694296/" target="_blank" rel="noreferrer">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" className="icon" />
           </a>
